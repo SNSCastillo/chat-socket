@@ -1,0 +1,8 @@
+::::: Configuraciones para el servidor
+
+-> // Inicamos npm en nuestro proyecto
+-> // Instalación de la librería ws
+-> // Crear archivo del servidor
+-> // Ejecutamos el servidor
+
+:::: Se crear un index.html sencillo para el cliente
